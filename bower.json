@@ -1,0 +1,26 @@
+{
+  "name": "patinggame",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kostiantyn Halantsev"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Game",
+    "paint"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.7",
+    "requirejs": "~2.1.20"
+  }
+}

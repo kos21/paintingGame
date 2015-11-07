@@ -7,6 +7,59 @@ var sourceData = [
             "x":"0",
             "y":"0",
             "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"1",
+            "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"2",
+            "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"3",
+            "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"4",
+            "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"5",
+            "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"6",
+            "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"7",
+            "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"8",
+            "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"9",
+            "color":"#fafafa"
+        },
+        {
+            "x":"0",
+            "y":"10",
+            "color":"#fafafa"
         }
+    ],
+    [
+
     ]
 ];

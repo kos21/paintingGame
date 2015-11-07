@@ -9,6 +9,7 @@ define(["../module"], function(drawBlocks){
             "restrict": "E",
             link: {
                 pre: function preLink(scope, element, attrs){
+
                     $scope.sourceData = sourceDataProvider;
                     $scope.sourceElements =  $scope.sourceData;
                 }

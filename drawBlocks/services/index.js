@@ -3,6 +3,7 @@
  */
 define([
     "./httpService",
+    "./generateElementsBlock"
 ], function(){
 
 });

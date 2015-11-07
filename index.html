@@ -2,9 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Painting game</title>
+    <link type="text/css" rel="stylesheet" href="css/main.css"/>
+
 </head>
 <body>
-    
+     <div class="main_div" ng-app="app.drawBlocks">
+        <build-elements></build-elements>
+     </div>
+     <div class="buttons">
+         <input type="button" value="restore state of matrix" ng-click="restoreStateMatrix()"/>
+         <input type="button" value="save current matrix" ng-click="saveCurrentMatrix()"/>
+     </div>
+     <script type="text/javascript" data-main="main" src="./bower_components/requirejs/require.js"></script>
 </body>
 </html>
